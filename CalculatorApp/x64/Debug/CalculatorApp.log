@@ -1,0 +1,7 @@
+﻿  CalculatorAppDlg.cpp
+C:\Users\fadil\source\repos\CalculatorApp\CalculatorApp\CalculatorAppDlg.cpp(351,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fadil\source\repos\CalculatorApp\CalculatorApp\CalculatorAppDlg.cpp(381,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fadil\source\repos\CalculatorApp\CalculatorApp\CalculatorAppDlg.cpp(393,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fadil\source\repos\CalculatorApp\CalculatorApp\CalculatorAppDlg.cpp(405,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fadil\source\repos\CalculatorApp\CalculatorApp\CalculatorAppDlg.cpp(417,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CalculatorApp.vcxproj -> C:\Users\fadil\source\repos\CalculatorApp\x64\Debug\CalculatorApp.exe
